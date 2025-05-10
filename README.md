@@ -79,7 +79,9 @@ For academic collaboration or integration into clinical pipelines, please contac
 This research code is released under the MIT License.
 
 **Maintained by**: Bakary Gibba
+
 **Institution**: Albukhary International University
+
 **Field**: AI for Medical Imaging and Diagnostics
 
 ```
