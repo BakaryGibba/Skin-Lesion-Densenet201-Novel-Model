@@ -16,26 +16,6 @@ Our architecture is grounded in **DenseNet201**, known for its efficient feature
 The model architecture is enhanced further with **Explainable AI methods** such as Grad-CAM to visualize and understand the regions influencing model predictions. This promotes transparency and increases trustworthiness in clinical applications.
 
 
-## 📊 Model Performance
-
-After training on the PH² dataset and validating with a held-out test set of 440 samples, the model achieved the following results:
-
-          precision    recall  f1-score   support
-
- Class 0       0.86      0.92      0.89       181
- Class 1       0.92      0.85      0.89       169
- Class 2       0.98      0.98      0.98        90
-
-accuracy                           0.91       440
-
-macro avg       0.92      0.92      0.92       440
-weighted avg       0.91      0.91      0.91       440
-
-
-These results suggest strong generalization and reliability across all lesion types.
-
----
-
 ## 📂 Dataset Used
 
 We utilize the **PH² Skin Lesion MRI Dataset**, which contains annotated dermatological images from clinical cases:
