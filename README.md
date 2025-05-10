@@ -20,9 +20,6 @@ The model architecture is enhanced further with **Explainable AI methods** such 
 
 After training on the PH² dataset and validating with a held-out test set of 440 samples, the model achieved the following results:
 
-```
-
-```
           precision    recall  f1-score   support
 
  Class 0       0.86      0.92      0.89       181
@@ -30,12 +27,10 @@ After training on the PH² dataset and validating with a held-out test set of 44
  Class 2       0.98      0.98      0.98        90
 
 accuracy                           0.91       440
-```
 
 macro avg       0.92      0.92      0.92       440
 weighted avg       0.91      0.91      0.91       440
 
-````
 
 These results suggest strong generalization and reliability across all lesion types.
 
