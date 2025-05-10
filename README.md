@@ -1,8 +1,5 @@
-Thanks, Bakary. Here's the finalized and professional version of your `README.md` for the research repository, updated to reflect your actual research title:
 
----
 
-```markdown
 # DenseNet201-SE with Explainable AI for Skin Lesion Classification
 
 This repository presents a deep learning model developed as part of a research study titled:
@@ -11,7 +8,6 @@ This repository presents a deep learning model developed as part of a research s
 
 The work integrates **DenseNet201 with Squeeze-and-Excitation (SE) blocks** and employs **Explainable AI (XAI)** techniques to classify skin lesions from MRI images. The model is trained and evaluated on the [PH² Skin Cancer MRI Dataset](https://www.kaggle.com/datasets/rashidul0/ph2-skin-cancer-classification), targeting more transparent and accurate clinical decision support.
 
----
 
 ## 🧠 Overview of the Model
 
@@ -19,7 +15,6 @@ Our architecture is grounded in **DenseNet201**, known for its efficient feature
 
 The model architecture is enhanced further with **Explainable AI methods** such as Grad-CAM to visualize and understand the regions influencing model predictions. This promotes transparency and increases trustworthiness in clinical applications.
 
----
 
 ## 📊 Model Performance
 
