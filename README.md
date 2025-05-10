@@ -78,26 +78,8 @@ For academic collaboration or integration into clinical pipelines, please contac
 
 This research code is released under the MIT License.
 
----
-
-## 📌 Citation
-
-If this work aids your research or clinical exploration, kindly cite the repository and credit the dataset authors:
-
-> Gibba, B. (2025). *Skin Lesion Classification with Explainable AI to Enhance Dermatological Diagnosis* \[GitHub repository].
-
----
-
 **Maintained by**: Bakary Gibba
 **Institution**: Albukhary International University
 **Field**: AI for Medical Imaging and Diagnostics
 
-```
-
----
-
-Let me know if you’d like:
-- A **BibTeX citation snippet**
-- A **diagram of the model architecture**
-- Or a **paper abstract version** of this for journals or conferences.
 ```
