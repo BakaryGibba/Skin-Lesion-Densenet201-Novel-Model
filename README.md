@@ -1,4 +1,4 @@
-![Skin Cancer Illustration]([https://example.com/your-image.jpg](https://media.istockphoto.com/id/1394087536/vector/skin-cancer-concept.jpg?s=612x612&w=0&k=20&c=79hlaj3WkcN67UkBZWoeHCnexXH86SDWoUkGId7e7Gs=))
+![Skin Cancer Illustration](https://media.istockphoto.com/id/1394087536/vector/skin-cancer-concept.jpg?s=612x612&w=0&k=20&c=79hlaj3WkcN67UkBZWoeHCnexXH86SDWoUkGId7e7Gs=)
 
 
 
