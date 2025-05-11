@@ -1,3 +1,4 @@
+![Skin Cancer Illustration](https://example.com/your-image.jpg)
 
 
 # DenseNet201-SE with Explainable AI for Skin Lesion Classification
