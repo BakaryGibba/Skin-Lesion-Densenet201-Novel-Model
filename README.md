@@ -1,4 +1,4 @@
-![Skin Cancer Illustration](https://example.com/your-image.jpg)
+![Skin Cancer Illustration]([https://example.com/your-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcancer-patient-profile&psig=AOvVaw0jlB6NUufeHK7wxdFOkBiY&ust=1746988628359000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLid35bGmY0DFQAAAAAdAAAAABAE))
 
 
 # DenseNet201-SE with Explainable AI for Skin Lesion Classification
