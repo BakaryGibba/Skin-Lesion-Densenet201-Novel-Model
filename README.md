@@ -2,7 +2,7 @@
 
 
 
-# DenseNet201-SE with Explainable AI for Skin Lesion Classification
+# DenseNet201 Novel Model for Skin Lesion Classification
 
 This repository presents a deep learning model developed as part of a research study titled:
 
